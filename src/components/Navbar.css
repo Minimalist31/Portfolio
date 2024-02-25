@@ -1,0 +1,22 @@
+.navbar {
+  height: 50px;
+  background-color: rgba(7, 7, 7, 0.93);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 80px;
+}
+.nav-box1 {
+  width: 25%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.navlink {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
